@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2a02f544-0b08-43d9-9c6c-c754134f900e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2FdewnEEjP4YlF20P3t7i0InXCN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "last_opened_file_path": "D:/!GitHub/TimeTable-SSAU",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "spring.configuration.checksum": "f083559a7b02557ac952250a8f99affc"
+  }
+}]]></component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="BotInitializer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Telegram.confg.BotInitializer" />
+      <module name="TimeTable-SSAU" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.Telegram.confg.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Main" />
+      <module name="TimeTable-SSAU" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.Telegram.Service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TimeTableBot" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Telegram.TimeTableBot" />
+      <module name="TimeTable-SSAU" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.Telegram.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="TimeTable-SSAU" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.example.Main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TimeTableBot" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="TimeTable-SSAU" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.example.Telegram.TimeTableBot" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.Telegram.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.TimeTableBot" />
+        <item itemvalue="Application.BotInitializer" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2a02f544-0b08-43d9-9c6c-c754134f900e" name="Changes" comment="" />
+      <created>1664826632671</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1664826632671</updated>
+      <workItem from="1664826634399" duration="1122000" />
+      <workItem from="1665047070205" duration="7935000" />
+      <workItem from="1665079821975" duration="2321000" />
+      <workItem from="1665474500057" duration="8626000" />
+      <workItem from="1665489761512" duration="305000" />
+      <workItem from="1665653284956" duration="23030000" />
+      <workItem from="1665684248756" duration="10743000" />
+      <workItem from="1665742663995" duration="6947000" />
+      <workItem from="1665852538035" duration="12372000" />
+      <workItem from="1665916497708" duration="20778000" />
+      <workItem from="1666179265211" duration="16278000" />
+      <workItem from="1666258827399" duration="4089000" />
+      <workItem from="1666337643839" duration="5689000" />
+      <workItem from="1666359363817" duration="1329000" />
+      <workItem from="1666376829199" duration="1829000" />
+      <workItem from="1666423863551" duration="3818000" />
+      <workItem from="1666585189908" duration="1386000" />
+      <workItem from="1666685901830" duration="4090000" />
+      <workItem from="1666872968935" duration="7407000" />
+      <workItem from="1667139312933" duration="795000" />
+      <workItem from="1673364582617" duration="702000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.IndexOutOfBoundsException" package="java.lang" />
+          <option name="timeStamp" value="8" />
+        </breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.io.FileNotFoundException" package="java.io" />
+          <option name="timeStamp" value="13" />
+        </breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Parser/Parser.java</url>
+          <line>47</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
